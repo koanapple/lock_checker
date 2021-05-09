@@ -1,3 +1,7 @@
 {
-  "InAppVCColor": "#ffe700ff"
+  "InAppVCColor":  {
+    "red": 18,
+    "green": 26,
+    "blue": 47
+  }
 }
