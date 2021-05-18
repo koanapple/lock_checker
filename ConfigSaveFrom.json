@@ -5,5 +5,6 @@
     "blue": 224
   },
   "lock_id": "069C3AB8-F595-4C77-A92C-97787634B278",
-  "hideCloseButtonInOnboarding" : true
+  "hideCloseButtonInOnboarding" : true,
+  "hideCloseButtonInAppPurchaseVC" : true
 }
