@@ -1,8 +1,8 @@
 {
   "InAppVCColor":  {
-    "red": 10,
-    "green": 149,
-    "blue": 224
+    "red": 0,
+    "green": 190,
+    "blue": 123
   },
   "lock_id": "bc1a5b43-b9b9-4253-82dd-08af54451236",
   "hideCloseButtonInOnboarding" : false,
