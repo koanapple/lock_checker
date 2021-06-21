@@ -7,5 +7,5 @@
   "lock_id": "d3602d9e-987a-4a9f-b413-36d0467ba292",
   "hideCloseButtonInOnboarding" : false,
   "hideCloseButtonInAppPurchaseVC" : true,
-  "serverSideLoad" : false
+  "serverSideLoad" : true
 }
