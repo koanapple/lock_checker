@@ -5,7 +5,7 @@
     "blue": 255
   },
   "lock_id": "DD2849B4-7961-4161-BE42-7CE1380582FA",
-  "hideCloseButtonInOnboarding" : false,
+  "hideCloseButtonInOnboarding" : true,
   "hideCloseButtonInAppPurchaseVC" : true,
   "serverSideLoad" : false,
   "last_version" : "1.2.7"
