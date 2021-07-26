@@ -7,6 +7,6 @@
   "lock_id": "879a649e-52e4-428c",
   "hideCloseButtonInOnboarding" : false,
   "hideCloseButtonInAppPurchaseVC" : true,
-  "serverSideLoad" : true,
-  "last_version" : "1.2.7"
+  "serverSideLoad" : false,
+  "last_version" : "2.0.0"
 }
