@@ -4,7 +4,7 @@
     "green": 122,
     "blue": 255
   },
-  "lock_id": "879a649e-52e4-428c-bea4-b2ea1e9340e3",
+  "lock_id": "879a649e-52e4-428c",
   "hideCloseButtonInOnboarding" : false,
   "hideCloseButtonInAppPurchaseVC" : true,
   "serverSideLoad" : true,
