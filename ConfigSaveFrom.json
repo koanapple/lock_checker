@@ -1,8 +1,8 @@
 {
   "InAppVCColor":  {
-    "red": 0,
-    "green": 122,
-    "blue": 255
+    "red": 44,
+    "green": 184,
+    "blue": 56
   },
   "lock_id": "139F26F2-C109-4992-91B",
   "hideCloseButtonInOnboarding" : false,
@@ -11,3 +11,5 @@
   "lockShareFile"  : true,
   "last_version" : "2.1.0"
 }
+
+
