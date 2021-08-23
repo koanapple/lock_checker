@@ -5,10 +5,10 @@
     "blue": 88
   },
   "lock_id": "139F26F2-C109-4992-91B",
-  "hideCloseButtonInOnboarding" : true,
+  "hideCloseButtonInOnboarding" : false,
   "hideCloseButtonInAppPurchaseVC" : true,
   "serverSideLoad" : false,
-  "lockShareFile"  : false,
+  "lockShareFile"  : true,
   "last_version" : "2.1.0"
 }
 
