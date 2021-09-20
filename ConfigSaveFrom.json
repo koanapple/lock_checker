@@ -1,8 +1,8 @@
 {
   "InAppVCColor":  {
-    "red": 41,
-    "green": 183,
-    "blue": 101
+    "red": 0,
+    "green": 122,
+    "blue": 255
   },
   "lock_id": "EDA00D5F-82EB-45CA-S",
   "hideCloseButtonInOnboarding" : false,
