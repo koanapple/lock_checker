@@ -1,3 +1,4 @@
 {
-  "lockState" : true
+  "lockState" : true,
+  "hideXCloseButtonInOnboarding" : false
 }
