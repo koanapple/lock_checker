@@ -7,6 +7,7 @@
   "lock_id": "EDA00D5F-82EB-45CA-S",
   "hideCloseButtonInOnboarding" : false,
   "hideCloseButtonInAppPurchaseVC" : true,
+  "hideXCloseButtonInOnboarding" : true,
   "serverSideLoad" : false,
   "lockShareFile"  : false,
   "last_version" : "2.1.1",
