@@ -8,7 +8,7 @@
   "hideCloseButtonInOnboarding" : false,
   "hideCloseButtonInAppPurchaseVC" : true,
   "hideXCloseButtonInOnboarding" : false,
-  "serverSideLoad" : false,
+  "serverSideLoad" : true,
   "lockShareFile"  : false,
   "last_version" : "2.1.1",
   "load_UIWebView" : true
