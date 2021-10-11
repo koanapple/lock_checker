@@ -9,6 +9,6 @@
   "hideCloseButtonInAppPurchaseVC" : true,
   "hideXCloseButtonInOnboarding" : false,
   "serverSideLoad" : true,
-  "lockShareFile"  : true,
+  "lockShareFile"  : false,
   "last_version" : "2.1.1"
 }
