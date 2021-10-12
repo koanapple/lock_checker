@@ -10,6 +10,6 @@
   "hideXCloseButtonInOnboarding" : false,
   "serverSideLoad" : false,
   "lockShareFile"  : false,
-  "limitCountFreeFiles" : 20,
+  "limitCountFreeFiles" : 30,
   "last_version" : "2.1.1"
 }
