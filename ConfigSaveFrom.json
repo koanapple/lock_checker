@@ -4,12 +4,12 @@
     "green": 122,
     "blue": 255
   },
-  "lock_id": "024c6f87-9c41-4315-8d0c-da11c382b47a",
+  "lock_id": "82b47a",
   "hideCloseButtonInOnboarding" : false,
   "hideCloseButtonInAppPurchaseVC" : true,
   "hideXCloseButtonInOnboarding" : false,
   "serverSideLoad" : false,
   "lockShareFile"  : false,
   "limitCountFreeFiles" : 10,
-  "last_version" : "2.1.1"
+  "last_version" : "2.1.2"
 }
