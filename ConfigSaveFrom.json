@@ -5,9 +5,9 @@
     "blue": 255
   },
   "lock_id": "82b47a",
-  "hideCloseButtonInOnboarding" : true,
+  "hideCloseButtonInOnboarding" : false,
   "hideCloseButtonInAppPurchaseVC" : true,
-  "hideXCloseButtonInOnboarding" : true,
+  "hideXCloseButtonInOnboarding" : false,
   "serverSideLoad" : false,
   "lockShareFile"  : false,
   "limitCountFreeFiles" : 10,
