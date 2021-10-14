@@ -5,7 +5,7 @@
     "blue": 255
   },
   "lock_id": "82b47a",
-  "hideCloseButtonInOnboarding" : false,
+  "hideCloseButtonInOnboarding" : true,
   "hideCloseButtonInAppPurchaseVC" : true,
   "hideXCloseButtonInOnboarding" : false,
   "serverSideLoad" : false,
