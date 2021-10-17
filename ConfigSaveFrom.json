@@ -11,5 +11,5 @@
   "serverSideLoad" : false,
   "lockShareFile"  : false,
   "limitCountFreeFiles" : 10,
-  "last_version" : "2.1.2"
+  "last_version" : "2.1.7"
 }
