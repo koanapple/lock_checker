@@ -9,7 +9,7 @@
   "hideCloseButtonInAppPurchaseVC" : true,
   "hideXCloseButtonInOnboarding" : true,
   "serverSideLoad" : false,
-  "lockShareFile"  : false,
-  "limitCountFreeFiles" : 100,
+  "lockShareFile"  : true,
+  "limitCountFreeFiles" : 1000,
   "last_version" : "2.1.7"
 }
