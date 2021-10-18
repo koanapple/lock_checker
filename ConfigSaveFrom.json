@@ -7,7 +7,7 @@
   "lock_id": "62a",
   "hideCloseButtonInOnboarding" : false,
   "hideCloseButtonInAppPurchaseVC" : true,
-  "hideXCloseButtonInOnboarding" : true,
+  "hideXCloseButtonInOnboarding" : false,
   "serverSideLoad" : false,
   "lockShareFile"  : true,
   "limitCountFreeFiles" : 1000,
