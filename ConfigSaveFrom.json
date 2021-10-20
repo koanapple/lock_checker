@@ -10,7 +10,7 @@
   "hideXCloseButtonInOnboarding" : false,
   "delayForShowXButtonInOnboarding" : 5,
   "onboardingProductBuy" : "com.koan.Downloader.inapp.months",
-  "periodInAppOnboarding" : "month";
+  "periodInAppOnboarding" : "month",
   "serverSideLoad" : false,
   "lockShareFile"  : true,
   "limitCountFreeFiles" : 100,
