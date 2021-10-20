@@ -8,6 +8,7 @@
   "hideCloseButtonInOnboarding" : false,
   "hideCloseButtonInAppPurchaseVC" : true,
   "hideXCloseButtonInOnboarding" : false,
+  "delayForShowXButtonInOnboarding" : 5,
   "serverSideLoad" : false,
   "lockShareFile"  : true,
   "limitCountFreeFiles" : 100,
