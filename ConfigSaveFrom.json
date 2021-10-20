@@ -9,6 +9,7 @@
   "hideCloseButtonInAppPurchaseVC" : true,
   "hideXCloseButtonInOnboarding" : false,
   "delayForShowXButtonInOnboarding" : 5,
+  "onboardingProductBuy" : "com.koan.Downloader.inapp.months",
   "serverSideLoad" : false,
   "lockShareFile"  : true,
   "limitCountFreeFiles" : 100,
