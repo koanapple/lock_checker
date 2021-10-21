@@ -11,6 +11,7 @@
   "delayForShowXButtonInOnboarding" : 3,
   "onboardingProductBuy" : "com.koan.Downloader.inapp.months",
   "periodInAppOnboarding" : "month",
+  "viewControllerIphoneYoutubeServerSideLoad" : false,
   "serverSideLoad" : false,
   "lockShareFile"  : true,
   "limitCountFreeFiles" : 10000,
