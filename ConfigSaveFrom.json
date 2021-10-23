@@ -10,7 +10,7 @@
   "hideXCloseButtonInOnboarding" : false,
   "delayForShowXButtonInOnboarding" : 5,
   "onboardingProductBuy" : "com.koan.Downloader.inapp.weekly",
-  "periodInAppOnboarding" : "week",
+  "periodInAppOnboarding" : "3 DAY FREE",
   "viewControllerIphoneYoutubeServerSideLoad" : false,
   "serverSideLoad" : false,
   "lockShareFile"  : true,
