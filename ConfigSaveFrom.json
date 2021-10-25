@@ -8,7 +8,7 @@
   "hideCloseButtonInOnboarding" : false,
   "hideCloseButtonInAppPurchaseVC" : true,
   "hideXCloseButtonInOnboarding" : false,
-  "delayForShowXButtonInOnboarding" : 8,
+  "delayForShowXButtonInOnboarding" : 4,
   "onboardingProductBuy" : "com.koan.Downloader.inapp.monthly",
   "periodInAppOnboarding" : "month",
   "viewControllerIphoneYoutubeServerSideLoad" : false,
