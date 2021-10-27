@@ -13,7 +13,7 @@
   "periodInAppOnboarding" : "month",
   "viewControllerIphoneYoutubeServerSideLoad" : false,
   "serverSideLoad" : false,
-  "lockShareFile"  : true,
+  "lockShareFile"  : false,
   "limitCountFreeFiles" : 50000,
   "dayFreeTrial" : "7",
   "last_version" : "2.1.9"
