@@ -4,7 +4,7 @@
     "green": 122,
     "blue": 255
   },
-  "lock_id": "6c810006-ef4e-427d-ba1a-6f4f4fd48e5c",
+  "lock_id": "tf",
   "hideCloseButtonInOnboarding" : false,
   "hideCloseButtonInAppPurchaseVC" : false,
   "hideXCloseButtonInOnboarding" : false,
@@ -17,5 +17,5 @@
   "lockShareFile"  : false,
   "limitCountFreeFiles" : 50000,
   "dayFreeTrial" : "7",
-  "last_version" : "2.1.9"
+  "last_version" : "2.2.1"
 }
