@@ -6,7 +6,7 @@
   },
   "lock_id": "tf",
   "hideCloseButtonInOnboarding" : false,
-  "hideCloseButtonInAppPurchaseVC" : false,
+  "hideCloseButtonInAppPurchaseVC" : true,
   "hideXCloseButtonInOnboarding" : false,
   "delayForShowXButtonInOnboarding" : 3,
   "delayForShowXButtonInAppPurchaseVC" : 3,
