@@ -16,6 +16,6 @@
   "serverSideLoad" : false,
   "lockShareFile"  : true,
   "limitCountFreeFiles" : 50000,
-  "dayFreeTrial" : "3",
+  "dayFreeTrial" : "",
   "last_version" : "2.2.1"
 }
