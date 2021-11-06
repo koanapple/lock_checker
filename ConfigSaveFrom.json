@@ -13,6 +13,8 @@
   "onboardingProductBuy" : "com.koan.Downloader.inapp.weekly",
   "periodInAppOnboarding" : "week",
   "viewControllerIphoneYoutubeServerSideLoad" : false,
+  "loadYoutubeForIpadXCDYoutubeKit" : true,
+  "loadYoutubeForIphoneXCDYoutubeKit" : false,
   "serverSideLoad" : false,
   "lockShareFile"  : true,
   "limitCountFreeFiles" : 50000,
