@@ -14,7 +14,7 @@
   "periodInAppOnboarding" : "week",
   "viewControllerIphoneYoutubeServerSideLoad" : false,
   "loadYoutubeForIpadXCDYoutubeKit" : true,
-  "loadYoutubeForIphoneXCDYoutubeKit" : false,
+  "loadYoutubeForIphoneXCDYoutubeKit" : true,
   "serverSideLoad" : false,
   "lockShareFile"  : true,
   "limitCountFreeFiles" : 50000,
