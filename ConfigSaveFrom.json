@@ -15,6 +15,7 @@
   "viewControllerIphoneYoutubeServerSideLoad" : false,
   "loadYoutubeForIpadXCDYoutubeKit" : true,
   "loadYoutubeForIphoneXCDYoutubeKit" : true,
+  "loadYoutubeForIphoneXCDYoutubeKitBrowser" : true,
   "serverSideLoad" : false,
   "lockShareFile"  : true,
   "limitCountFreeFiles" : 50000,
