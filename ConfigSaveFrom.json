@@ -7,7 +7,7 @@
   "lock_id": "38923",
   "hideCloseButtonInOnboarding" : false,
   "hideCloseButtonInAppPurchaseVC" : false,
-  "hideXCloseButtonInOnboarding" : false,
+  "hideXCloseButtonInOnboarding" : true,
   "delayForShowXButtonInOnboarding" : 3,
   "delayForShowXButtonInAppPurchaseVC" : 0,
   "onboardingProductBuy" : "com.koan.Downloader.inapp.weekly",
