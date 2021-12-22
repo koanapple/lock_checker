@@ -21,6 +21,6 @@
   "showUIMenuInStorageVC"  : false,
   "limitCountFreeFiles" : 50000,
   "dayFreeTrial" : "3",
-  "availableURls" : ["twitch","vimeo","17live","abcnews","bbc","carambatv","cbc.ca","cnn","dailymotion","discovery","dropbox","ivi","kinopoisk","xnxx","xtube","xvideos","pornhub","reddit","rutube"],
+  "availableURls" : ["youtu","twitch","vimeo","17live","abcnews","bbc","carambatv","cbc.ca","cnn","dailymotion","discovery","dropbox","ivi","kinopoisk","xnxx","xtube","xvideos","pornhub","reddit","rutube"],
   "last_version" : "2.2.4"
 }
