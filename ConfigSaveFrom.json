@@ -19,7 +19,7 @@
   "serverSideLoad" : false,
   "lockShareFile"  : true,
   "showUIMenuInStorageVC"  : false,
-  "limitCountFreeFiles" : 10,
+  "limitCountFreeFiles" : 10000,
   "dayFreeTrial" : "3",
   "availableURls" : ["porno","sex","yandex","twitch","vimeo","17live","abcnews","bbc","carambatv","cbc.ca","cnn","dailymotion","discovery","dropbox","ivi","kinopoisk","xnxx","xtube","xvideos","pornhub","reddit","rutube"],
   "last_version" : "2.2.4"
