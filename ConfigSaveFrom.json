@@ -17,7 +17,7 @@
   "loadYoutubeForIphoneXCDYoutubeKit" : true,
   "loadYoutubeForIphoneXCDYoutubeKitBrowser" : false,
   "serverSideLoad" : false,
-  "lockShareFile"  : true,
+  "lockShareFile"  : false,
   "showUIMenuInStorageVC"  : false,
   "limitCountFreeFiles" : 90000000,
   "dayFreeTrial" : "3",
