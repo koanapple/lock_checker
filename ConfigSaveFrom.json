@@ -21,6 +21,6 @@
   "showUIMenuInStorageVC"  : false,
   "limitCountFreeFiles" : 90000000,
   "dayFreeTrial" : "3",
-  "availableURls" : ["twitch","europeantour","yandex","vimeo","carambatv","dailymotion","discovery","dropbox","xnxx","xvideos","pornhub","reddit","rutube"],
+  "availableURls" : ["ivi","kinopoisk","twitch","europeantour","yandex","vimeo","carambatv","dailymotion","discovery","dropbox","xnxx","xvideos","pornhub","reddit","rutube"],
   "last_version" : "2.2.4"
 }
